@@ -1,0 +1,45 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: darkslategray;
+}
+
+header {
+    font: outline;
+    background-color: azure;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+}
+
+nav {
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    background-color: azure;
+    width: 80%;
+}
+
+article {
+    margin:auto;
+    text-align: center;
+    background-color: azure;
+    width: 80%;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    background-color: darkgray;
+    width:80%;
+}
+
+a {
+    background-color: inherit;
+}
+
+h1, h2, h3, h4 {
+    background-color: inherit;
+    margin: 0 auto;
+}
