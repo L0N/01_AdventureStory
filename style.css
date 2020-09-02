@@ -4,35 +4,44 @@
     background-color: darkslategray;
 }
 
-header {
-    font: outline;
+.content {
     background-color: azure;
-    width: 80%;
     margin: auto;
     text-align: center;
+    width: 80%;
+    border-radius: 8px;
+}
 
+header {
+    font: outline;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: inherit;
 }
 
 nav {
     margin: auto;
     text-align: center;
     text-decoration: none;
-    background-color: azure;
-    width: 80%;
+    background-color: inherit;
+    padding: 20px;
 }
 
 article {
     margin:auto;
     text-align: center;
-    background-color: azure;
-    width: 80%;
+    background-color: inherit;
+    border-radius: inherit;
 }
 
 footer {
     margin: auto;
     text-align: center;
     background-color: darkgray;
-    width:80%;
+    border-radius: 8px;
+    padding: 20px;
+    width: 80%;
 }
 
 a {
@@ -42,4 +51,13 @@ a {
 h1, h2, h3, h4 {
     background-color: inherit;
     margin: 0 auto;
+    border-radius: inherit;
+    text-emphasis: circle;
+}
+
+p {
+    background-color: inherit;
+    padding: 10px;
+    border: 1px black;
+    border-radius: inherit;
 }
