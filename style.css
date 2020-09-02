@@ -28,6 +28,40 @@ nav {
     padding: 20px;
 }
 
+/*start nav block*/
+nav ul {
+    background-color: inherit;
+    margin:0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    display: inline-block;
+    text-align: center;
+}
+
+nav ul li {
+    margin: inherit;
+    text-align: inherit;
+    background-color: inherit;
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+    text-emphasis: block;
+}
+
+nav ul li a:hover {
+    background-color: black;
+    color: white;
+}
+
+/*end of nav block*/
+
 article {
     margin:auto;
     text-align: center;
@@ -39,9 +73,8 @@ footer {
     margin: auto;
     text-align: center;
     background-color: darkgray;
-    border-radius: 8px;
+    border-radius: inherit;
     padding: 20px;
-    width: 80%;
 }
 
 a {
