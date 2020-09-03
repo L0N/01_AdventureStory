@@ -1,6 +1,12 @@
 div {
     float: left;
+    width: 27%;
 }
+
+/* div {
+    float:none;
+    width: 100%;
+} */
 
 #red {
     background-color: red;
