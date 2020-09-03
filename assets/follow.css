@@ -8,6 +8,13 @@ div {
     width: 100%;
 } */
 
+@media (max-width: 360px) {
+    div {
+        float: none;
+        width: 100%;
+    }
+
+}
 #red {
     background-color: red;
 }
