@@ -5,16 +5,26 @@
 
 #wrapper-nav {
     background-color: red;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
 }
 
 #firstnav {
-    background-color: blue;
+    background-color: yellow;
 }
 
 #secondnav {
-    background-color: purple;
+    background-color: blue;
 }
 
 #thirdnav {
-    background-color: green;
+    background-color: purple;
+}
+
+#links-container {
+    
 }
