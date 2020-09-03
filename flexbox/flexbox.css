@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper-nav {
+    background-color: red;
+}
+
+#firstnav {
+    background-color: blue;
+}
+
+#secondnav {
+    background-color: purple;
+}
+
+#thirdnav {
+    background-color: green;
+}
