@@ -16,27 +16,30 @@ If you need a reference for this idea, think of old choose-your-own-adventure bo
 - If everything is working as it should, please go back and tidy up the code as much as possible. Indentation is vitally important in HTML, and also to keep the code consistent (when you make a choice, stick with it). 
 - Image resizing
 You may need to resize your images, and we haven’t done any CSS yet. 
-Here is an example to get you through for now:
-<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
-This will help you get the images under control. There is a resource below that you can use, but we don't want to get too caught up in CSS. Might just be handy to size the images slightly.
-## Resources:
-https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game)
+Here is an example to get you through for now:   
+<img src="img/HTML5_logo_128.png" alt="HTML5 Icon" width="128" height="128">   
+This will help you get the images under control. There is a resource below that you can use, but we don't want to get too caught up in CSS. Might just be handy to size the images slightly.   
+## Resources:   
+https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game)   
 Semantic HTML:
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics   
 Images:
-https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/html/html_images.asp   
 HTML:
-https://developer.mozilla.org/en-US/docs/Web/HTML (edited)
-Wikipedia
-Where in the World Is Carmen Sandiego? (1985 video game)
-Where in the World is Carmen Sandiego? is an educational video game released by Broderbund in 1985. It is the first product in the Carmen Sandiego franchise. The game was distributed with The World Almanac and Book of Facts, published by Pharos Books. An enhanced version of the game was released in 1989, which did not have the almanac-based copy protection and instead used disk-based copy protection. A deluxe version was released in 1992, and featured additional animation and a reworked interface from the original version. Some of the bonus features included digitized photos from National Geographic, over 3200 clues, music from the Smithsonian/Folkways Recordings, 20 villains, 60 countries… Show more (32 kB)
+https://developer.mozilla.org/en-US/docs/Web/HTML   
+### Wikipedia   
+#### Where in the World Is Carmen Sandiego? (1985 video game)   
+Where in the World is Carmen Sandiego? is an educational video game released by Broderbund in 1985. It is the first product in the Carmen Sandiego franchise. The game was distributed with The World Almanac and Book of Facts, published by Pharos Books. An enhanced version of the game was released in 1989, which did not have the almanac-based copy protection and instead used disk-based copy protection. A deluxe version was released in 1992, and featured additional animation and a reworked interface from the original version. Some of the bonus features included digitized photos from National Geographic, over 3200 clues, music from the Smithsonian/Folkways Recordings, 20 villains, 60 countries… 
 https://upload.wikimedia.org/wikipedia/en/8/8b/Where_in_the_World_Is_Carmen_Sandiego_1985_Cover.jpg
-MDN Web Docs
-HTML elements reference
+
+MDN Web Docs   
+HTML elements reference   
 This page lists all the HTML elements, which are created using tags.
-w3schools.comw3schools.com
-HTML Images
-Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.
-MDN Web Docs
-HTML: Hypertext Markup Language
+
+w3schools.com   
+HTML Images   
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.   
+
+MDN Web Docs   
+HTML: Hypertext Markup Language   
 HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
